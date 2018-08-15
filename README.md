@@ -16,7 +16,9 @@ to this:
 
 ## How to Use
 
-With this add-in extension for Firefox, there will be a little broom icon beside Firefox's address bar: ![Broom Icon](images/broom.png).  Simply click it, and all the floating elements on the page will disappear.  The effect is temporary - you can simply reload the page (press F5 or click the ![Firefox Reload Icon](images/reload.png) button to get them back again.
+Install it from here: https://addons.mozilla.org/en-GB/firefox/addon/give-my-head-peace/
+
+A little broom icon (![Broom Icon](images/broom.png)) will appear to the right of Firefox's address bar.  Simply click it, and all the floating elements on the page will disappear.  The effect is temporary - you can simply reload the page (press F5 or click the ![Firefox Reload Icon](images/reload.png) button to get them back again.
 
 ----------------------------
 
