@@ -1,6 +1,6 @@
 # Give My Head Peace
 
-A Firefox Add-In to remove any HTML elements with 'fixed' or 'static' positioning.
+A Firefox and Chrome Add-In to remove any HTML elements with 'fixed' or 'static' positioning.
 
 Every website you visit these days has design elements which 'float' above the regular content, displaying menu bars, cookie management options, feedback buttons, toolbars and the like.
 
@@ -18,7 +18,7 @@ to this:
 
 Install it from here: https://addons.mozilla.org/en-GB/firefox/addon/give-my-head-peace/
 
-A little broom icon (![Broom Icon](images/broom16.png)) will appear to the right of Firefox's address bar.  Simply click it, and all the floating elements on the page will disappear.  The effect is temporary - you can simply reload the page (press F5 or click the ![Firefox Reload Icon](images/reload.png) button to get them back again.
+A little broom icon (![Broom Icon](images/broom16.png)) will appear to the right of Firefox's or Chrome's address bar.  Simply click it, and all the floating elements on the page will disappear.  The effect is temporary - you can simply reload the page (press F5 or click the ![Firefox Reload Icon](images/reload.png) button to get them back again.
 
 ----------------------------
 
