@@ -1,3 +1,5 @@
 *.crx
 *.pem
 **/.DS_Store
+GiveMyHeadPeace-*.zip
+.idea
